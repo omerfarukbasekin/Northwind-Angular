@@ -1,3 +1,9 @@
-# angular-try-online-reythy
+# A Angular api prject 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-try-online-reythy)
+[Training Youtube Play Set⚡️](http://y2u.be/f_r8SkLWgBI)
+
+
+Project about connecting json data with Angular project.
+
+
+[Data come form : JSONPlaceholder](https://jsonplaceholder.typicode.com/)
