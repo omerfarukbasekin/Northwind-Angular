@@ -1,7 +1,6 @@
 # A Angular api prject 
 
 ![image](https://user-images.githubusercontent.com/56569869/155964690-35bd3dd5-141f-490f-9c8e-f6f2ebb27722.png)
-
 [Training Youtube Play Set⚡️](http://y2u.be/f_r8SkLWgBI)
 
 
