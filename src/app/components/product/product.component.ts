@@ -16,10 +16,18 @@ export class ProductComponent implements OnInit {
   ngOnInit() {
     this.getTodos();
   }
+
   getTodos() {
     this.todoService.getTodos().subscribe((response) => {
       this.todos = response;
-      this.dataLoaded = true;
+      this.delay(3000).then((any) => {
+        this.dataLoaded = true;
+      });
     });
+  }
+  async delay(ms: number) {
+    await new Promise<void>((resolve) => setTimeout(() => resolve(), ms)).then(
+      () => console.log('fired')
+    );
   }
 }
